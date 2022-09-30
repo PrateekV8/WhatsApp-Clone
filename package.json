@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "axios": "^0.27.2",
+    "cors": "^2.8.5",
+    "create-react-app": "^5.0.1",
+    "pusher": "^5.1.1-beta",
+    "pusher-js": "^7.4.0"
+  }
+}
